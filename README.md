@@ -1,0 +1,2 @@
+# RabbitMQ_directProduct
+RabbitMQ_directProduct
